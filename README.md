@@ -1,9 +1,4 @@
-# Modalities Should Talk to Each Other
-
-**Dual-Stream Multimodal Learning for Long-Horizon Influenza Forecasting**
-
-Official implementation & reproduction material for the following article.
-
+Official implementation & reproduction material for:
 
 ```bibtex
 @article{hashemi2026modalities,
