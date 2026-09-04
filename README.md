@@ -2,8 +2,6 @@
 
 **Dual-Stream Multimodal Learning for Long-Horizon Influenza Forecasting**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2608.23373-b31b1b.svg)](https://arxiv.org/abs/2608.23373)
-
 Official implementation & reproduction material for the following article.
 
 
@@ -18,8 +16,4 @@ Official implementation & reproduction material for the following article.
 
 ---
 
-## License
 
-See `LICENSE` for the license of this repository.
-
-Code and resources from third-party projects remain subject to their original licenses.
